@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Yousaf-Wajih
+- 👀 I’m interested in web, game, and low-level programming. I'm also interested in studying old softwares, OSes, aand computers.
