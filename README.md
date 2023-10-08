@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @Yousaf-Wajih
-- 👀 I’m interested in web, game, and low-level programming. I'm also interested in studying old softwares, OSes, aand computers.
+- 👀 I’m interested in game development, 3D graphics, OpenGL, and low-level stuff!
+- I have a [YouTube channel](https://www.youtube.com/channel/@thehelloworldguyofficial) that you should probably subscribe ;-)
